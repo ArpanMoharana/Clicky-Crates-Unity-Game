@@ -1,0 +1,24 @@
+{
+  "targets": [
+    {
+      "name": "Good Crate",
+      "pointValue": 5,
+      "prefabPath": "Good 1"
+    },
+    {
+      "name": "Bad Crate",
+      "pointValue": -10,
+      "prefabPath": "Bad 1"
+    },
+    {
+      "name": "Bonus Crate",
+      "pointValue": 20,
+      "prefabPath": "Good 2"
+    },
+    {
+      "name": "Super Crate",
+      "pointValue": 50,
+      "prefabPath": "Good 3"
+    }
+  ]
+}
