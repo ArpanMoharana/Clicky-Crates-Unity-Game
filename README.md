@@ -1,6 +1,7 @@
 # 🎮 Clicky Crates – Data-Driven Arcade Game
 
-<href= "https://github.com/ArpanMoharana/Clicky-Crates-Unity-Game/blob/f4e7ec4906d9810e9f9ccd5d21e6bcf37b3af8bd/Click_Crates.gif"
+![Gameplay](https://raw.githubusercontent.com/ArpanMoharana/Clicky-Crates-Unity-Game/f4e7ec4906d9810e9f9ccd5d21e6bcf37b3af8bd/Click_Crates.gif)
+
 
 
 
