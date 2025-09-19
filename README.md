@@ -63,3 +63,19 @@ Play instantly on itch.io:
 ## 🙌 Credits
 Developed by **Arpan Kumar Moharana**  
 Inspired by the **Unity Junior Programmer Pathway (Prototype 5)**
+
+---
+
+## 📜 License
+This project is licensed under the **MIT License**.  
+
+
+---
+
+## 🙏 Acknowledgements
+- Built using the **Unity Engine** (2022.3 LTS).  
+- Based on the **Unity Junior Programmer Pathway Prototype 5**.  
+- UI powered by **TextMeshPro**.  
+- Special thanks to **Unity Learn** for structured training and assets.  
+
+
